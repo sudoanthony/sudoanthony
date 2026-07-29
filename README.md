@@ -1,16 +1,13 @@
-## Hi there 👋
+<!-- Hello everyone :) -->
 
-<!--
-**sudoanthony/sudoanthony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Anthony Sciuto · security writeups
 
-Here are some ideas to get you started:
+Web and Windows exploitation — I work retired boxes and CTFs, then write up
+**why** each bug exists: root cause, detection, and the fix. Not just the commands.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**→ Full site with all writeups: [sudoanthony.github.io](https://sudoanthony.github.io)**
+
+- Focus right now: [ web app auth flaws / mobile pentesting ]
+- Working toward: [ junior pentest / cybersecurity guru ]
+
+📫 [ Anhmi@duck.com ] · [ anthonyvincentsciuto@linkedin.com ] · [ https://tryhackme.com/p/Anhmi ] [ https://app.hackthebox.com/users/2976115 ]
