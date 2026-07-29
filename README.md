@@ -11,4 +11,7 @@ Thanks!
 - Focus right now: [ web app auth flaws / mobile pentesting ]
 - Working toward: [ junior pentest / cybersecurity guru ]
 
-📫 [ Anhmi@duck.com ] · [ anthonyvincentsciuto@linkedin.com ] · [ https://tryhackme.com/p/Anhmi ] [ https://app.hackthebox.com/users/2976115 ]
+📫 [ Anhmi@duck.com ] 
+LinkedIn - [ anthonyvincentsciuto@linkedin.com ] 
+TryHackMe - [ https://tryhackme.com/p/Anhmi ] 
+HackTheBox - [ https://app.hackthebox.com/users/2976115 ]
