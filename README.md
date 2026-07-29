@@ -1,9 +1,10 @@
 <!-- Hello everyone :) -->
 
-### Anthony Sciuto · security writeups
+### Anthony Sciuto · CTF Write-ups
 
-Web and Windows exploitation — I work retired boxes and CTFs, then write up
-**why** each bug exists: root cause, detection, and the fix. Not just the commands.
+I work retired boxes and CTFs, then write up **why** each bug exists: root cause, detection, and the fix.
+If you have any questions or want to connect feel free to reach out to any of the links at the bottom.
+Thanks!
 
 **→ Full site with all writeups: [sudoanthony.github.io](https://sudoanthony.github.io)**
 
