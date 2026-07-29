@@ -12,6 +12,6 @@ Thanks!
 - Working toward: [ junior pentest / cybersecurity guru ]
 
 📫 [ Anhmi@duck.com ] 
-LinkedIn - [ anthonyvincentsciuto@linkedin.com ] 
-TryHackMe - [ https://tryhackme.com/p/Anhmi ] 
-HackTheBox - [ https://app.hackthebox.com/users/2976115 ]
+- LinkedIn [ anthonyvincentsciuto@linkedin.com ] 
+- TryHackMe [ https://tryhackme.com/p/Anhmi ] 
+- HackTheBox [ https://app.hackthebox.com/users/2976115 ]
