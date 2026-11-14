@@ -21,4 +21,4 @@ I also hold an N3/N2 level of Japanese so feel free to collaborate on Cybersecur
 - LinkedIn [ anthonyvincentsciuto@linkedin.com ] 
 - TryHackMe [ https://tryhackme.com/p/Anhmi ] 
 - HackTheBox [ https://app.hackthebox.com/users/2976115 ]
-－IssueHunt.io [ https://issuehunt.io/profiles/783c513b-217e-4cd5-a7d7-76720f4eaa0d ] - Newly Created!
+- IssueHunt.io [ https://issuehunt.io/profiles/783c513b-217e-4cd5-a7d7-76720f4eaa0d ] - Newly Created!
